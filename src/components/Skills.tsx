@@ -1,13 +1,5 @@
 
 export default function Skills() {
-  const educations = [
-    {
-      name: "Curso de Desenvolvimento Web Full Stack | Dev Samurai",
-    },
-    {
-      name: "Curso de Desenvolvimento Mobile | Dev Samurai",
-    },
-  ]
 
   const skills = [
     {
