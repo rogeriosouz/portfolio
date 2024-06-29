@@ -6,6 +6,7 @@
   "homepage": "https://rogeriosouz.github.io/portfolio",
   "scripts": {
     "predeploy": "npm run build",
+    
     "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "tsc && vite build",
